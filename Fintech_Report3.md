@@ -2,7 +2,6 @@
 
 # <center>Fintech_Report3
 
-<center>毛阿妍3170102656
 <center>2019/8/22
 
 
