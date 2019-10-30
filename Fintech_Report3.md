@@ -5,7 +5,6 @@
 <center>2019/8/22
 
 
-[TOC]
 
 ## 1:实验⽬的 
 
@@ -305,19 +304,19 @@ test_err = cumulative_test_err / no_iter
 
 #### 3.1.1:k-means
 
-![Figure_1](/Users/may/Desktop/assets/Figure_1.png)
+![Figure_1](/Users/may/Desktop/screen/Fintech/Fintech_report/Fintech_Report3_毛阿妍3170102656/assets/IMG_3279.JPG)
 
 #### 3.1.2:谱聚类Spectral Clustering
 
 W = knn_graph(X, 15, 1.45)  # recommend parameters,recenter times : 2
 
-![Figure_2](/Users/may/Desktop/assets/Figure_2.png)
+![Figure_2](/Users/may/Desktop/screen/Fintech/Fintech_report/Fintech_Report3_毛阿妍3170102656/assets/IMG_3282.JPG)
 
 #### 3.1.3:调试knn_graph的参数，优化谱聚类的效果
 
 如图所示，推荐的参数W=knn_graph(X, 15, 1.45)效果不错，微调参数以后的效果也相近；变动太大则效果不佳。
 
-![IMG_3249](/Users/may/Desktop/assets/IMG_3249.JPG)
+![IMG_3249](/Users/may/Desktop/screen/Fintech/Fintech_report/Fintech_Report3_毛阿妍3170102656/assets/IMG_3288.JPG.JPG)
 
 #### 3.1.4:分析k-means和Spectral Clustering的其不同
 
