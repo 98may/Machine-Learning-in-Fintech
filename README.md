@@ -5,9 +5,13 @@ Notes & Assignments & my independent project
 
 Key Job:
 实验3:实现聚类和分类
+
 实验4:NLP in Fintech
+
 实验5:实现马科维茨投资组合策略（MV）
+
 实验7:利⽤常用的分类模型(包括感知机，SVM，朴素⻉叶斯，决策树，logistic回归， random forest等等)，在训练集上进⾏训练。
+
 实验8:大作业 个人project
 
 
